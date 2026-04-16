@@ -107,11 +107,11 @@ Magikk is a modern social media application inspired by platforms like Instagram
 
 <table>
   <tr>
-    <td align="center"><img width="180" alt="screen_1" src="https://github.com/user-attachments/assets/d084165f-c675-47f7-b6c2-f02a302fee95"/><br/><sub><b>Screen 1</b></sub></td>
-    <td align="center"><img width="180" alt="screen_2" src="https://github.com/user-attachments/assets/f68e2445-1fcf-4527-a63a-dd6eac2b8ede"/><br/><sub><b>Screen 2</b></sub></td>
-    <td align="center"><img width="180" alt="screen_3" src="https://github.com/user-attachments/assets/224fb3ff-454f-4d4c-8c15-dd85c14e27e4"/><br/><sub><b>Screen 3</b></sub></td>
-    <td align="center"><img width="180" alt="screen_4" src="https://github.com/user-attachments/assets/9a3dceed-57f4-4703-a4a0-ed79f61cbfbf"/><br/><sub><b>Screen 4</b></sub></td>
-    <td align="center"><img width="180" alt="screen_5" src="https://github.com/user-attachments/assets/f80d1a17-62b4-4bdc-b5cc-1c6c55ff32c8"/><br/><sub><b>Screen 5</b></sub></td>
+    <td align="center"><img width="180" alt="Login" src="https://github.com/user-attachments/assets/224fb3ff-454f-4d4c-8c15-dd85c14e27e4"/><br/><sub><b>Screen 3</b></sub></td>
+    <td align="center"><img width="180" alt="Sign-up" src="https://github.com/user-attachments/assets/9a3dceed-57f4-4703-a4a0-ed79f61cbfbf"/><br/><sub><b>Screen 4</b></sub></td>
+    <td align="center"><img width="180" alt="Home" src="https://github.com/user-attachments/assets/d084165f-c675-47f7-b6c2-f02a302fee95"/><br/><sub><b>Screen 1</b></sub></td>
+    <td align="center"><img width="180" alt="Profile" src="https://github.com/user-attachments/assets/f68e2445-1fcf-4527-a63a-dd6eac2b8ede"/><br/><sub><b>Screen 2</b></sub></td>
+    <td align="center"><img width="180" alt="Feed" src="https://github.com/user-attachments/assets/f80d1a17-62b4-4bdc-b5cc-1c6c55ff32c8"/><br/><sub><b>Screen 5</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img width="180" alt="screen_6" src="https://github.com/user-attachments/assets/aff001a1-ac5f-4a66-a60a-34e2119e5420"/><br/><sub><b>Screen 6</b></sub></td>
