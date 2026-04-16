@@ -95,8 +95,8 @@ Magikk is a modern social media application inspired by platforms like Instagram
 
 <table>
   <tr>
-    <td align="center"><img src="https://your-image-url.com/screen1.png" width="180"/><br/><sub><b>Login</b></sub></td>
-    <td align="center"><img width="180" alt="app_open" src="https://github.com/user-attachments/assets/1dd82301-4594-417c-8f02-e9352873e988"/><br/><sub><b>App Opening</b></sub></td>
+    
+  <td align="center"><img width="180" alt="app_open" src="https://github.com/user-attachments/assets/1dd82301-4594-417c-8f02-e9352873e988"/><br/><sub><b>App Opening</b></sub></td>
     <td align="center"><img width="180" alt="home_feed" src="https://github.com/user-attachments/assets/9b8a7032-fa2d-48fb-af23-0dba571ac273"/><br/><sub><b>Home Feed</b></sub></td>
     <td align="center"><img width="180" alt="profile_open" src="https://github.com/user-attachments/assets/d86055ba-24b2-4535-9db4-9acd7a7d4b46"/><br/><sub><b>Profile</b></sub></td>
     <td align="center"><img width="180" alt="post_creation" src="https://github.com/user-attachments/assets/3da457c4-0002-452e-8ebc-c1eb6f938ac9"/><br/><sub><b>Post Creation</b></sub></td>
