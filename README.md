@@ -87,8 +87,6 @@ Magikk is a modern social media application inspired by platforms like Instagram
 
 ## App Screens
 
-## App Screens
-
 <div align="center">
 
 ### Preview Screens
