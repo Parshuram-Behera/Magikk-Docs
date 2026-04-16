@@ -87,31 +87,38 @@ Magikk is a modern social media application inspired by platforms like Instagram
 
 ## App Screens
 
+## App Screens
 
 <div align="center">
 
+### Preview Screens
+
 <table>
   <tr>
-    <td align="center"><img src="https://your-image-url.com/screen1.png" width="200"/><br/><sub><b>Login</b></sub></td>
-     <td align="center"><img width="360" height="800" alt="app_open" src="https://github.com/user-attachments/assets/1dd82301-4594-417c-8f02-e9352873e988" /><br/><sub><b>App Opening</b></sub></td>
-    <td align="center"><img width="360" height="800" alt="9 mb app demo" src="https://github.com/user-attachments/assets/9b8a7032-fa2d-48fb-af23-0dba571ac273" /><br/><sub><b>Home Feed</b></sub></td>
-    <td align="center"><img width="360" height="800" alt="profile_open" src="https://github.com/user-attachments/assets/d86055ba-24b2-4535-9db4-9acd7a7d4b46" /><br/><sub><b>Profile</b></sub></td>
-    <td align="center"><img width="360" height="800" alt="post_creation" src="https://github.com/user-attachments/assets/3da457c4-0002-452e-8ebc-c1eb6f938ac9" /><br/><sub><b>Post Creation</b></sub></td>
-    
+    <td align="center"><img src="https://your-image-url.com/screen1.png" width="180"/><br/><sub><b>Login</b></sub></td>
+    <td align="center"><img width="180" alt="app_open" src="https://github.com/user-attachments/assets/1dd82301-4594-417c-8f02-e9352873e988"/><br/><sub><b>App Opening</b></sub></td>
+    <td align="center"><img width="180" alt="home_feed" src="https://github.com/user-attachments/assets/9b8a7032-fa2d-48fb-af23-0dba571ac273"/><br/><sub><b>Home Feed</b></sub></td>
+    <td align="center"><img width="180" alt="profile_open" src="https://github.com/user-attachments/assets/d86055ba-24b2-4535-9db4-9acd7a7d4b46"/><br/><sub><b>Profile</b></sub></td>
+    <td align="center"><img width="180" alt="post_creation" src="https://github.com/user-attachments/assets/3da457c4-0002-452e-8ebc-c1eb6f938ac9"/><br/><sub><b>Post Creation</b></sub></td>
+  </tr>
+</table>
+
+### More Screens
+
+<table>
+  <tr>
+    <td align="center"><img width="180" alt="screen_1" src="https://github.com/user-attachments/assets/d084165f-c675-47f7-b6c2-f02a302fee95"/><br/><sub><b>Screen 1</b></sub></td>
+    <td align="center"><img width="180" alt="screen_2" src="https://github.com/user-attachments/assets/f68e2445-1fcf-4527-a63a-dd6eac2b8ede"/><br/><sub><b>Screen 2</b></sub></td>
+    <td align="center"><img width="180" alt="screen_3" src="https://github.com/user-attachments/assets/224fb3ff-454f-4d4c-8c15-dd85c14e27e4"/><br/><sub><b>Screen 3</b></sub></td>
+    <td align="center"><img width="180" alt="screen_4" src="https://github.com/user-attachments/assets/9a3dceed-57f4-4703-a4a0-ed79f61cbfbf"/><br/><sub><b>Screen 4</b></sub></td>
+    <td align="center"><img width="180" alt="screen_5" src="https://github.com/user-attachments/assets/f80d1a17-62b4-4bdc-b5cc-1c6c55ff32c8"/><br/><sub><b>Screen 5</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img width="1080" height="2400" alt="photo_1_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/d084165f-c675-47f7-b6c2-f02a302fee95" /><br/><sub><b>1 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_2_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/f68e2445-1fcf-4527-a63a-dd6eac2b8ede" /><br/><sub><b>2 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_3_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/224fb3ff-454f-4d4c-8c15-dd85c14e27e4" /><br/><sub><b>3 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_4_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/9a3dceed-57f4-4703-a4a0-ed79f61cbfbf" /><br/><sub><b>4 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_5_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/f80d1a17-62b4-4bdc-b5cc-1c6c55ff32c8" /><br/><sub><b>5 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_6_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/aff001a1-ac5f-4a66-a60a-34e2119e5420" /><br/><sub><b>6 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_7_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/3c8c2211-1c31-4e7b-a1e3-10eb0aecf348" /><br/><sub><b>7 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_8_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/e4f83122-a13a-470c-b335-01e1dd80af87" /><br/><sub><b>8 P</b></sub></td>
-    <td align="center"><img width="1080" height="2400" alt="photo_9_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/a0c8584b-a389-416f-b794-fed4914fb108" /><br/><sub><b>9 P</b></sub></td>
-    <td align="center">
-<img width="1080" height="2400" alt="photo_10_2026-04-16_16-25-08" src="https://github.com/user-attachments/assets/079e751b-fd86-40c9-8f40-88d148bec662" /><br/><sub><b>10 P</b></sub></td>
-    
+    <td align="center"><img width="180" alt="screen_6" src="https://github.com/user-attachments/assets/aff001a1-ac5f-4a66-a60a-34e2119e5420"/><br/><sub><b>Screen 6</b></sub></td>
+    <td align="center"><img width="180" alt="screen_7" src="https://github.com/user-attachments/assets/3c8c2211-1c31-4e7b-a1e3-10eb0aecf348"/><br/><sub><b>Screen 7</b></sub></td>
+    <td align="center"><img width="180" alt="screen_8" src="https://github.com/user-attachments/assets/e4f83122-a13a-470c-b335-01e1dd80af87"/><br/><sub><b>Screen 8</b></sub></td>
+    <td align="center"><img width="180" alt="screen_9" src="https://github.com/user-attachments/assets/a0c8584b-a389-416f-b794-fed4914fb108"/><br/><sub><b>Screen 9</b></sub></td>
+    <td align="center"><img width="180" alt="screen_10" src="https://github.com/user-attachments/assets/079e751b-fd86-40c9-8f40-88d148bec662"/><br/><sub><b>Screen 10</b></sub></td>
   </tr>
 </table>
 
