@@ -114,11 +114,11 @@ Magikk is a modern social media application inspired by platforms like Instagram
     <td align="center"><img width="180" alt="Feed" src="https://github.com/user-attachments/assets/f80d1a17-62b4-4bdc-b5cc-1c6c55ff32c8"/><br/><sub><b>Feed</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img width="180" alt="screen_6" src="https://github.com/user-attachments/assets/aff001a1-ac5f-4a66-a60a-34e2119e5420"/><br/><sub><b>Screen 6</b></sub></td>
-    <td align="center"><img width="180" alt="screen_7" src="https://github.com/user-attachments/assets/3c8c2211-1c31-4e7b-a1e3-10eb0aecf348"/><br/><sub><b>Screen 7</b></sub></td>
-    <td align="center"><img width="180" alt="screen_8" src="https://github.com/user-attachments/assets/e4f83122-a13a-470c-b335-01e1dd80af87"/><br/><sub><b>Screen 8</b></sub></td>
-    <td align="center"><img width="180" alt="screen_9" src="https://github.com/user-attachments/assets/a0c8584b-a389-416f-b794-fed4914fb108"/><br/><sub><b>Screen 9</b></sub></td>
-    <td align="center"><img width="180" alt="screen_10" src="https://github.com/user-attachments/assets/079e751b-fd86-40c9-8f40-88d148bec662"/><br/><sub><b>Screen 10</b></sub></td>
+    <td align="center"><img width="180" alt="screen_6" src="https://github.com/user-attachments/assets/aff001a1-ac5f-4a66-a60a-34e2119e5420"/><br/><sub><b>Create Post</b></sub></td>
+    <td align="center"><img width="180" alt="screen_7" src="https://github.com/user-attachments/assets/3c8c2211-1c31-4e7b-a1e3-10eb0aecf348"/><br/><sub><b>Search People</b></sub></td>
+    <td align="center"><img width="180" alt="screen_8" src="https://github.com/user-attachments/assets/e4f83122-a13a-470c-b335-01e1dd80af87"/><br/><sub><b>Uploading State</b></sub></td>
+    <td align="center"><img width="180" alt="screen_9" src="https://github.com/user-attachments/assets/a0c8584b-a389-416f-b794-fed4914fb108"/><br/><sub><b>Followers</b></sub></td>
+    <td align="center"><img width="180" alt="screen_10" src="https://github.com/user-attachments/assets/079e751b-fd86-40c9-8f40-88d148bec662"/><br/><sub><b>Like Animation</b></sub></td>
   </tr>
 </table>
 
